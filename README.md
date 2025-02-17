@@ -1,6 +1,6 @@
 # Fair-Influence-maximization
 
-This is the accompanying code with the TKDE '21/ICDE'22/NeuRIPS HCML '19 paper:
+This is the accompanying code with the TKDE '21/ICDE'22/NeurIPS HCML '19 paper:
 https://ieeexplore.ieee.org/abstract/document/9576603
 
 Please cite our paper if you use the code.
