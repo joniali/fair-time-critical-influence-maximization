@@ -4,7 +4,11 @@ This is the accompanying code with the TKDE/ICDE/NeuRIPS workshop paper:
 https://ieeexplore.ieee.org/abstract/document/9576603
 
 Please cite our paper if you use the code.
+## How to run the code
 
+- It requires python 3.6 and NetworkX libarary.
+- Run the fairnInfMaximizaiton.py file.
+- Refer to config file for more configuration details.
 
 ## Citation
 
