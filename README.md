@@ -1,6 +1,9 @@
 # fair-influence-max
 
-This is the accompanying code with the TKDE/ICDE/NeuRIPS workshop paper. Please cite our paper if you use the code.
+This is the accompanying code with the TKDE/ICDE/NeuRIPS workshop paper:
+https://ieeexplore.ieee.org/abstract/document/9576603
+
+Please cite our paper if you use the code.
 
 
 ## Citation
