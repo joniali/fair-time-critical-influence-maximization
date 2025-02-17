@@ -1,4 +1,4 @@
-# fair-influence-max
+# Fair-Influence-maximization
 
 This is the accompanying code with the TKDE/ICDE/NeuRIPS workshop paper:
 https://ieeexplore.ieee.org/abstract/document/9576603
